@@ -1,0 +1,29 @@
+[33mcommit 217de7c2be5548a1e409a906ceda79e6ab83c66e[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31mbtre_project/master[m[33m)[m
+Author: Miko <mikolaj.myszka@gmail.com>
+Date:   Wed Dec 12 13:51:38 2018 +0100
+
+    Making Listings Page dynamic
+
+[33mcommit 7942aee26c8cfefb23920e25182116f034b44077[m
+Author: Miko <mikolaj.myszka@gmail.com>
+Date:   Mon Dec 10 12:53:33 2018 +0100
+
+    Admin Customization
+
+[33mcommit b8931bdfabaa423c5c5eef5f7cafd13b4292f10f[m
+Author: Miko <mikolaj.myszka@gmail.com>
+Date:   Fri Dec 7 23:50:39 2018 +0100
+
+    Listing and Realtor models
+
+[33mcommit cf259e39c5c74f3e073ce1553d79b63180ddd92e[m
+Author: Miko <mikolaj.myszka@gmail.com>
+Date:   Tue Dec 4 12:27:11 2018 +0100
+
+    base layout, templates, static files
+
+[33mcommit 8eb2da2d84daf7f1fd219e6bb0f37670cc081b6f[m
+Author: Miko <mikolaj.myszka@gmail.com>
+Date:   Mon Nov 26 12:46:37 2018 +0100
+
+    Initial commit
